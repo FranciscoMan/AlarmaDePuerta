@@ -14,7 +14,7 @@ En el siguiente proyecto crearemos un prototipo de alarma para una puerta utiliz
 ![Una imagen cualquiera](https://github.com/FranciscoMan/AlarmaDePuerta/blob/master/foto.jpg "Prototipo")
 
 ### Esquema de conexion
-![imagen]( "esquema")
+![imagen](https://github.com/FranciscoMan/AlarmaDePuerta/blob/master/imagen.jpg "esquema")
 
 La funcionalidad es la siguiente: El pedazo de carton con el **Iman** pegado simulan la puerta, al estar cerca del **REED Switch**
 simula la puerta cerrada. La girar el pedazo de carton la puerta se abriria, simulado con el **iman** alejandose, lo cual
