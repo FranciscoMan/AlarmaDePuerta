@@ -13,6 +13,9 @@ En el siguiente proyecto crearemos un prototipo de alarma para una puerta utiliz
 ### Imagen del prototipo
 ![Una imagen cualquiera](https://github.com/FranciscoMan/AlarmaDePuerta/blob/master/foto.jpg "Prototipo")
 
+### Esquema de conexion
+![imagen](https://github.com/FranciscoMan/AlarmaDePuerta/blob/master/Sin%20t%C3%ADtulo.jpg "esquema")
+
 La funcionalidad es la siguiente: El pedazo de carton con el **Iman** pegado simulan la puerta, al estar cerca del **REED Switch**
 simula la puerta cerrada. La girar el pedazo de carton la puerta se abriria, simulado con el **iman** alejandose, lo cual
 activa la alarma que es el **zumbador** que se aprecia en la parte derecha de color blanco justo a un lado del **LED**
